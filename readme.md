@@ -21,4 +21,4 @@
 
 # Блок схема решения задачи:
 
-![Block-Picture.jpg](https://i.postimg.cc/x8qHfxfh/Block-Picture.jpg)](https://postimg.cc/tnQ7DzVN)
+[![Block-Picture.png](https://i.postimg.cc/vThvZqVd/Block-Picture.png)](https://postimg.cc/RJ3tPTdP)
